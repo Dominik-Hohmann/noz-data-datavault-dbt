@@ -40,3 +40,5 @@ hashed_columns:
                   derived_columns=derived_columns,
                   hashed_columns=hashed_columns,
                   ranked_columns=none) }}
+
+-- test
